@@ -1,6 +1,5 @@
 ### Olá!
 
-- 👨‍💻 Hoje trabalho com back-end
 - 📖 Estudando Typescript
   
 <div>
